@@ -1,10 +1,10 @@
-# Hi there 👋, I'm Ahmed 
+# Hi there, I'm Ahmed 
 
 I'm an **aspiring Cloud & DevOps Engineer** with a strong foundation in **Chemical Engineering (BEng & PGCert)**, passionate about combining engineering principles with cutting-edge cloud technologies to create scalable, sustainable solutions.  
 
 ---
 
-## 🌟 About Me
+## About Me
 - 🔹 **2x AWS Certified** – Cloud Practitioner & Solutions Architect Associate  
 - 🔹 Hands-on experience with **building and deploying cloud infrastructure** on AWS  
 - 🔹 Skilled in **Docker, Terraform, Bash scripting, Linux, and VS Code**  
@@ -14,13 +14,13 @@ I'm an **aspiring Cloud & DevOps Engineer** with a strong foundation in **Chemic
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 **Cloud & DevOps:** AWS | Docker | Terraform | Bash | Linux  
 **Development Tools:** VS Code | Git  
 
 ---
 
-## 🚀 Projects
+## Projects
 - **[Docker Learning](https://github.com/ahmedmabdi/Docker-Learning.git)** – Multi-container Flask & Redis app with persistent storage and dynamic visitor counter  
 - *(Additional projects coming soon – currently building advanced cloud infrastructure projects on AWS)*  
 
