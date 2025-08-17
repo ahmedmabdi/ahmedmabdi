@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ahmed Abdi
+# Hi there 👋, I'm Ahmed 
 
 I'm an **aspiring Cloud & DevOps Engineer** with a strong foundation in **Chemical Engineering (BEng & PGCert)**, passionate about combining engineering principles with cutting-edge cloud technologies to create scalable, sustainable solutions.  
 
