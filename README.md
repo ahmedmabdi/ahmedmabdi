@@ -1,7 +1,9 @@
 # Hi there, I'm Ahmed 
 
-I'm an **aspiring Cloud & DevOps Engineer** with a strong foundation in **Chemical Engineering (BEng & PGCert)**, passionate about combining engineering principles with cutting-edge cloud technologies to create scalable, sustainable solutions.  
-
+DevOps Engineer with strong hands-on experience designing and deploying scalable cloud solutions on AWS, with a focus on
+automation and reliability. Proficient in Terraform, Docker, and GitHub Actions, with expertise in building and managing CI/CD
+pipelines to streamline software delivery. Active contributor to the Cloud and DevOps community, continuously learning and sharing
+best practices to drive innovation and operational excellence.
 ---
 
 ## About Me
@@ -15,8 +17,8 @@ I'm an **aspiring Cloud & DevOps Engineer** with a strong foundation in **Chemic
 ---
 
 ## Tech Stack
-**Cloud & DevOps:** AWS | Docker | Terraform | Bash | Linux  
-**Development Tools:** VS Code | Git  
+**Cloud & DevOps:** AWS - ECS, EC2, RDS, ELB, Route53, SSM | Docker | Terraform | Bash Scripting | Linux | CI/CD | Networking
+**Development Tools:** VS Code | Git | GitHub Actions
 
 ---
 
