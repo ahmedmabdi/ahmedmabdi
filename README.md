@@ -1,9 +1,7 @@
 # Hi there, I'm Ahmed 
 
-DevOps Engineer with strong hands-on experience designing and deploying scalable cloud solutions on AWS, with a focus on
-automation and reliability. Proficient in Terraform, Docker, and GitHub Actions, with expertise in building and managing CI/CD
-pipelines to streamline software delivery. Active contributor to the Cloud and DevOps community, continuously learning and sharing
-best practices to drive innovation and operational excellence.
+DevOps Engineer with strong hands-on experience designing and deploying scalable cloud solutions on AWS, with a focus on automation and reliability. Proficient in Terraform, Docker, and GitHub Actions, with expertise in building and managing CI/CD pipelines to streamline software delivery. Active contributor to the Cloud and DevOps community, continuously learning and sharing best practices to drive innovation and operational excellence.
+
 ---
 
 ## About Me
