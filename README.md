@@ -5,12 +5,12 @@ I'm a DevOps Engineer with strong hands-on experience designing and deploying sc
 ---
 
 ## About Me
-- 🔹 **2x AWS Certified** – Cloud Practitioner & Solutions Architect Associate  
-- 🔹 Hands-on experience with **building and deploying cloud infrastructure** on AWS  
-- 🔹 Skilled in **Docker, Terraform, Bash scripting, Linux, and VS Code**  
-- 🔹 Passionate about **sustainability** and exploring how cloud computing can drive efficient, eco-friendly solutions  
-- 🔹 Currently working on **real-world cloud & DevOps projects**, focusing on containerized applications, infrastructure-as-code, and automated deployment pipelines  
-- 🔹 Lifelong learner, constantly expanding knowledge in **cloud architecture, CI/CD, and scalable system design**  
+-  **2x AWS Certified** – Cloud Practitioner & Solutions Architect Associate  
+-  Hands-on experience with **building and deploying cloud infrastructure** on AWS  
+-  Skilled in **Docker, Terraform, Bash scripting, Linux, and VS Code**  
+-  Passionate about **sustainability** and exploring how cloud computing can drive efficient, eco-friendly solutions  
+-  Currently working on **real-world cloud & DevOps projects**, focusing on containerized applications, infrastructure-as-code, and automated deployment pipelines  
+-  Lifelong learner, constantly expanding knowledge in **cloud architecture, CI/CD, and scalable system design**  
 
 ---
 
