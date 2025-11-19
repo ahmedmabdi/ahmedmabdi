@@ -34,7 +34,7 @@ Git | GitHub | Bash | Linux | VS Code
 A production-style deployment of a full analytics application on Amazon EKS.  
 Includes secure infrastructure with Terraform, Helm chart deployments, GitHub Actions pipelines, Pod Identity/IRSA, Prometheus–Grafana monitoring, and full automation across the stack.
 
-### **[ECS Umami Web Analytics App]https://github.com/ahmedmabdi/ECS** 
+### [**ECS Umami Web Analytics App**](https://github.com/ahmedmabdi/ECS)
 A containerized analytics solution deployed on AWS ECS Fargate using Terraform and CI/CD pipelines.  
 Implements automated environment provisioning, secure networking, service discovery, and continuous delivery.
 
