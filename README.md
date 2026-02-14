@@ -19,8 +19,7 @@ I enjoy solving real problems through clean infrastructure design and transformi
 
 **Cloud & DevOps:**  
 AWS (EKS, ECS, EC2, RDS, ELB, IAM, SSM, Route53, VPC)  
-Docker | Kubernetes | Helm | Terraform | GitHub Actions | CI/CD | Monitoring & Logging | Networking  
-Prometheus | Grafana | CloudWatch 
+Docker | Kubernetes | Helm | Terraform | GitHub Actions | CI/CD | Monitoring & Logging | Networking | Prometheus | Grafana | CloudWatch 
 
 **Development & Tools:**  
 Git | GitHub | Bash | Linux | VS Code  
