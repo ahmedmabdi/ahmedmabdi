@@ -9,8 +9,6 @@ I enjoy solving real problems through clean infrastructure design and transformi
 ## About Me
 - 2x AWS Certified – Cloud Practitioner & Solutions Architect Associate  
 - Hands-on experience deploying and managing cloud infrastructure on AWS  
-- Skilled in Docker, Kubernetes, Helm, Terraform, Bash, Linux, and Git  
-- Experienced with observability stacks including Prometheus and Grafana, Cloudwatch 
 - Passionate about sustainability and leveraging cloud computing to enable efficient, environmentally conscious solutions  
 - Currently working on real-world DevOps projects involving containerized workloads, IaC, GitOps workflows, and automated CI/CD pipelines  
 - Dedicated to continuous learning in cloud architecture, DevOps tooling, and scalable systems  
