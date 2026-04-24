@@ -34,7 +34,7 @@ Git · GitHub · Bash · Linux · VS Code · FastAPI · Python
 
 ## Projects
 
-### [URL Shortener — Production AWS Deployment](https://github.com/ahmedmabdi/urlshortecs)
+### [URL Shortener — Production AWS Deployment](https://github.com/ahmedmabdi/url-short-ecs)
 
 A production-ready URL shortener API deployed on AWS ECS Fargate, built to demonstrate what a proper cloud deployment looks like — not just a working app, but a professionally architected one.
 
@@ -63,7 +63,7 @@ A production-style deployment of a full analytics application on Amazon EKS.
 
 ---
 
-### [ECS Umami Web Analytics App](https://github.com/ahmedmabdi/ecsumamiapp)
+### [ECS Umami Web Analytics App](https://github.com/ahmedmabdi/ecs-umami-app)
 
 A containerised analytics solution deployed on AWS ECS Fargate using Terraform and CI/CD pipelines.
 
