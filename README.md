@@ -49,7 +49,7 @@ A production-ready URL shortener API deployed on AWS ECS Fargate, built to demon
 
 ---
 
-### [EKS Web Analytics Platform](https://github.com/ahmedmabdi/eks-anyalytics-tool)
+### [EKS Web Analytics Platform](https://github.com/ahmedmabdi/eks-analytics-tool)
 
 A production-style deployment of a full analytics application on Amazon EKS.
 
