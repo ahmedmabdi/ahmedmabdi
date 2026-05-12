@@ -34,9 +34,9 @@ Git · GitHub · Bash · Linux · VS Code · FastAPI · Python
 
 ## Projects
 
-### [URL Shortener — Production AWS Deployment](https://github.com/ahmedmabdi/url-short-ecs)
+### [Link Management Service — Production AWS Deployment](https://github.com/ahmedmabdi/url-short-ecs)
 
-A production-ready URL shortener API deployed on AWS ECS Fargate, built to demonstrate what a proper cloud deployment looks like — not just a working app, but a professionally architected one.
+A production-ready Link Management Service API deployed on AWS ECS Fargate, built to demonstrate what a proper cloud deployment looks like — not just a working app, but a professionally architected one.
 
 **Key highlights:**
 - Private subnet ECS tasks with **no NAT Gateway** — all AWS service traffic routed through VPC Interface Endpoints (saving ~$32/month)
